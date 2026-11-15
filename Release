@@ -1,5 +1,5 @@
-Origin: Анимация разблокировки
-Label: Анимация разблокировки
+Origin: Твики
+Label: Твики
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -7,14 +7,14 @@ Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Твики для экрана блокировки, iOS 16.7
 MD5Sum:
- dd901208c8a9650d6a5da1073ad42433 1580 Packages
- b442d32873d0054795d2315b087cc98f 652 Packages.gz
- 9c6ee795f01854fb0179a97d13eb41c1 736 Packages.bz2
+ 35279debc3b6507e45ce3d25e366d58f 3144 Packages
+ b40dbdb186e982b9fb03c042f3d526b4 1024 Packages.gz
+ 8633291c6ca152800d219f891267cb21 1119 Packages.bz2
 SHA1:
- 44eb5820d53c392a5d32351b4b7caea68b394710 1580 Packages
- 2997a7375056ee4d99da77f7ceca3f5339d1c2bb 652 Packages.gz
- d393f5397c949a196f0e6771e1f1abaa00f3b8fd 736 Packages.bz2
+ 40bec35b57fe3fff0bf2c7ab5a3b27ff981f1da4 3144 Packages
+ 2133fd6a288485a6724dcc5f3fa149fb8f72398a 1024 Packages.gz
+ 1a463f4c25321bc4d7dd7686f1fe187ac5000b6b 1119 Packages.bz2
 SHA256:
- ac34e345ea6a7925d0e749f6670af181963f23b4d11d7fe5a69fa0b65561e42c 1580 Packages
- 7b7f7d1e437ec637fbd29bc4948f60ab74989dd2202d115dc179bd7abaec0e57 652 Packages.gz
- d46a6fb7e9dcf6ec1381bc94ac9fe82045b1ff7bb4314f7f9719ce7e4bbb8396 736 Packages.bz2
+ 351474892a578f523d23a6e5ea8538aff30ab16fb22bbc70103e96f4e833c8ee 3144 Packages
+ af2d0d4d3127fcdba4227e667babca04ac8d8239e7995213d6dde9a837b03489 1024 Packages.gz
+ 82bf7d9c492607288c33a0202ecfbe2bf85f3849bee68830454fba4905db4b6d 1119 Packages.bz2

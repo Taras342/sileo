@@ -1,0 +1,23 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "1.0",
+  "tintColor": "#e31937",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Описание",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Неофетч",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "На экране блокировки появляется короткая строка, как fastfetch на ThinkPad: батарея, питание и версия iOS.\n\nВыключить можно в **Настройки → Неофетч**.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

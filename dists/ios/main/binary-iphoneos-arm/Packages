@@ -1,3 +1,20 @@
+Package: com.egor.neofetch
+Name: Неофетч
+Description: Строка на экране блокировки в духе оформления ThinkPad на Linux: батарея, питание и версия системы моноширинным шрифтом.
+Depends: mobilesubstrate, preferenceloader
+Maintainer: Егор
+Author: Егор
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0.0
+Filename: debs/com.egor.neofetch_1.0.0_iphoneos-arm.deb
+Size: 6260
+MD5sum: 255b8216c579bdea320094be731f6ee7
+SHA1: ae395bbc4324231b365a3611359dddd519f2d05a
+SHA256: 9a3ee77cb315498474c797910327ca2c2ed4b13ea51c4fd53b89e8947b6e4a64
+Icon: https://taras342.github.io/sileo/assets/neofetch.png
+SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.neofetch.json
+
 Package: com.egor.unlockanim
 Name: Анимация разблокировки
 Description: Своя анимация экрана блокировки в момент разблокировки: подъём, увеличение, сдвиг влево или вспышка.
@@ -6,12 +23,12 @@ Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.1.1
-Filename: debs/com.egor.unlockanim_1.1.1_iphoneos-arm.deb
-Size: 16152
-MD5sum: e31bebe941e075e99ef74f8cbf0fdb51
-SHA1: c619a0ad516bfdd53fd26de8787a5cbfaba0fb15
-SHA256: 833357e7493816d48d6cf3ca56be78cc58e64563d1d935fd51cfdf7a7b9a57c0
+Version: 1.1.2
+Filename: debs/com.egor.unlockanim_1.1.2_iphoneos-arm.deb
+Size: 16210
+MD5sum: 9f80b6def9d08deb1ef9b6d0f41020e7
+SHA1: 0c94f43ce5b5090bf909cfa1a6106ed2960b1513
+SHA256: 161caeb5aacefafa7d033b825c92e22dbee2d32ca3bf6d24aefe277a5176cad3
 Icon: https://taras342.github.io/sileo/assets/icon.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.unlockanim.json
 
