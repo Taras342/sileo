@@ -1,0 +1,29 @@
+Origin: Анимация разблокировки
+Label: Анимация разблокировки
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Твики для экрана блокировки, iOS 16.7
+MD5Sum:
+ f9c364150fad9f786dd171c0062d952a 817 main/binary-iphoneos-arm/Packages
+ 4238e7f50debc7d5e16799dd3979521e 569 main/binary-iphoneos-arm/Packages.bz2
+ 26de8a7f9e335f06a696e852154dcaa9 542 main/binary-iphoneos-arm/Packages.gz
+ d525c587ee866f826ceffd39bdfbcf31 821 main/binary-iphoneos-arm64/Packages
+ 25e3f3a7af5754a0c04a178ea14cd6c4 577 main/binary-iphoneos-arm64/Packages.bz2
+ 1636e57469a378b849d0d3b4ad9fc936 541 main/binary-iphoneos-arm64/Packages.gz
+SHA1:
+ 902c314e711bdfa93088d48d23535cd59d7c27e9 817 main/binary-iphoneos-arm/Packages
+ 1afc885987dbbc5cfea5a5d3a624cfb7f8fa875d 569 main/binary-iphoneos-arm/Packages.bz2
+ f0728806a28f378913fc8196d5aba5c51e593074 542 main/binary-iphoneos-arm/Packages.gz
+ 79f0d60555aa690bc4baa69546bcb75e3ffed1f6 821 main/binary-iphoneos-arm64/Packages
+ a526f8a349ce2be5317ee29357baf8d3815b17f3 577 main/binary-iphoneos-arm64/Packages.bz2
+ e08b6eebdc0362cfe0eb5ebcecc34ed12987422f 541 main/binary-iphoneos-arm64/Packages.gz
+SHA256:
+ 79347923108af8ad7ee00b02893b66b2b0c8743c772543d737f7972ffcde6522 817 main/binary-iphoneos-arm/Packages
+ 5678f5546b18d4e31841efdcb4b8117ebd36a8c43f1f775f77a569843622dfe0 569 main/binary-iphoneos-arm/Packages.bz2
+ 6133a0cefa01df71dfb891d3c84a5a551078e270cc3f25d6a0f4a53796f19ac9 542 main/binary-iphoneos-arm/Packages.gz
+ e519431bdbae3a39b4e0ea5741c3116985f8c792375d9e61228166b8ff2b200b 821 main/binary-iphoneos-arm64/Packages
+ 8845eb9ed31617c0afc19139d9a3f3d019d81c1c06e90aa4f66fe80e5a378b74 577 main/binary-iphoneos-arm64/Packages.bz2
+ 7d1bf327d721b310786e8ca1e57e64290834465d0d537012872d5e12c128f4ed 541 main/binary-iphoneos-arm64/Packages.gz
