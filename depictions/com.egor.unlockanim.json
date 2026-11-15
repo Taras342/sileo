@@ -1,0 +1,42 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "1.0",
+  "headerImage": "",
+  "tintColor": "#2563eb",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Описание",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Анимация разблокировки",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Когда телефон открывается, экран блокировки уезжает вверх, увеличивается, уходит влево или вспыхивает.\n\nПосле установки открой **Настройки → Анимация разблокировки**, выбери стиль и заблокируй телефон. Новый стиль берётся при следующей разблокировке.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Устройство",
+          "text": "iPhone X и старше, palera1n"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Прошивка",
+          "text": "iOS 16.7, rootless"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        }
+      ]
+    }
+  ]
+}

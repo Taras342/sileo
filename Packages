@@ -1,0 +1,16 @@
+Package: com.egor.unlockanim
+Name: Анимация разблокировки
+Description: Своя анимация экрана блокировки в момент разблокировки: подъём, увеличение, сдвиг влево или вспышка.
+Depends: mobilesubstrate, preferenceloader
+Maintainer: Егор
+Author: Егор
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Filename: debs/com.egor.unlockanim_1.0.0_iphoneos-arm64.deb
+Size: 9534
+MD5sum: d317aabd4401016923322e84d4c4a2ef
+SHA1: 5604ce068edf5f3b505797fc622ee6d85ab68286
+SHA256: 246dbd52b5aa854cad4b01af5da07a7270739902bf9035d3478f18b0cac44bfa
+Icon: https://cdn.jsdelivr.net/gh/Taras342/sileo@main/assets/icon.png
+SileoDepiction: https://cdn.jsdelivr.net/gh/Taras342/sileo@main/depictions/com.egor.unlockanim.json

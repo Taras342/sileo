@@ -1,0 +1,20 @@
+Origin: Анимация разблокировки
+Label: Анимация разблокировки
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: Твики для экрана блокировки, rootless, iOS 16.7
+MD5Sum:
+ 4ee797bb11e86499cb839ee146463bc3 820 Packages
+ 66be55d51d82d120f76a45d83889e5bd 544 Packages.gz
+ f4efd724fdb3a62fa7c0e912320cda6d 577 Packages.bz2
+SHA1:
+ a0f3d6f6e3f5f3acfe8b39c2e901b6f1e89c545b 820 Packages
+ 622651681eefe3733364096042c3d46bce1d1744 544 Packages.gz
+ b85eb5bbd8b92e59f8c442ad159d1685bb491716 577 Packages.bz2
+SHA256:
+ e850a431f9b39dff769c147f0fda76135c38a40665612339223e68427ebf8803 820 Packages
+ c08374e39d915a672878e9870602c77b3ce003a0980912113c6fbda50e1c6de7 544 Packages.gz
+ cb8e37d3aff40151cd9f4ff08903339e8df6227023f11fe7316c3df2f1158f43 577 Packages.bz2
