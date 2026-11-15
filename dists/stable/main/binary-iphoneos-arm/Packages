@@ -6,12 +6,12 @@ Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.1.0
-Filename: debs/com.egor.unlockanim_1.1.0_iphoneos-arm.deb
-Size: 14702
-MD5sum: e79a0c73611ca7897328135d83230741
-SHA1: ecffe8a7b560711baca4fd1ad4cf0718588b36e0
-SHA256: 6786c1a2d3452c935e6d5e2b42eb73909f777458d8f0023aa3df527a7ccccab0
+Version: 1.1.1
+Filename: debs/com.egor.unlockanim_1.1.1_iphoneos-arm.deb
+Size: 16152
+MD5sum: e31bebe941e075e99ef74f8cbf0fdb51
+SHA1: c619a0ad516bfdd53fd26de8787a5cbfaba0fb15
+SHA256: 833357e7493816d48d6cf3ca56be78cc58e64563d1d935fd51cfdf7a7b9a57c0
 Icon: https://taras342.github.io/sileo/assets/icon.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.unlockanim.json
 
