@@ -1,17 +1,17 @@
 Package: com.egor.neofetch
 Name: Неофетч
-Description: Строка на экране блокировки в духе оформления ThinkPad на Linux: батарея, питание и версия системы моноширинным шрифтом.
+Description: Прямоугольный виджет на экране блокировки, в ряду под часами: батарея, питание и версия системы.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm64
-Version: 1.0.0
-Filename: debs/com.egor.neofetch_1.0.0_iphoneos-arm64.deb
-Size: 6328
-MD5sum: 0812c254a7febd179035262d9d333044
-SHA1: 9d2c8ce7259910ed9ac4c102b8568302cf70b8ef
-SHA256: b0a4690f02cb1f46b0561bae6e5500a36e0e541edf4845fa172bb8ff64343afa
+Version: 1.1.0
+Filename: debs/com.egor.neofetch_1.1.0_iphoneos-arm64.deb
+Size: 7330
+MD5sum: cc05ba7c40a866cd2d51cb3281b78dba
+SHA1: c93af7909afae54a5e42f7f2b391481fc85820ab
+SHA256: d383cd5eaf8f1f43a100b306b0e04483b9aa5700ac960949b05942279b3c70fb
 Icon: https://taras342.github.io/sileo/assets/neofetch.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.neofetch.json
 
