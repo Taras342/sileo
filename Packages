@@ -6,14 +6,14 @@ Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.0.1
-Filename: debs/com.egor.unlockanim_1.0.1_iphoneos-arm.deb
-Size: 9470
-MD5sum: 42e1bbe8c26925e2aa5e92b4f4806422
-SHA1: b9e4072915d578387a1aa5c44b86ce157228e78c
-SHA256: 6ec564b430c8ab6bbe3cd93ac4ab06fdb8b62fefda1ca4cc5365a6aaa006b25c
-Icon: https://cdn.jsdelivr.net/gh/Taras342/sileo@main/assets/icon.png
-SileoDepiction: https://cdn.jsdelivr.net/gh/Taras342/sileo@main/depictions/com.egor.unlockanim.json
+Version: 1.1.0
+Filename: debs/com.egor.unlockanim_1.1.0_iphoneos-arm.deb
+Size: 14702
+MD5sum: e79a0c73611ca7897328135d83230741
+SHA1: ecffe8a7b560711baca4fd1ad4cf0718588b36e0
+SHA256: 6786c1a2d3452c935e6d5e2b42eb73909f777458d8f0023aa3df527a7ccccab0
+Icon: https://taras342.github.io/sileo/assets/icon.png
+SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.unlockanim.json
 
 Package: com.egor.unlockanim
 Name: Анимация разблокировки
@@ -23,12 +23,12 @@ Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm64
-Version: 1.0.1
-Filename: debs/com.egor.unlockanim_1.0.1_iphoneos-arm64.deb
-Size: 9530
-MD5sum: 08e0aa2457a2befc6f9501bdb7f5d2cb
-SHA1: d7a071116cd6a99fd817c05d9d15b0046a1c6f10
-SHA256: d247843db48126e6bb6828eae1d9e27b999fa7d5939ebe4b2e2996c48752c8e0
-Icon: https://cdn.jsdelivr.net/gh/Taras342/sileo@main/assets/icon.png
-SileoDepiction: https://cdn.jsdelivr.net/gh/Taras342/sileo@main/depictions/com.egor.unlockanim.json
+Version: 1.1.0
+Filename: debs/com.egor.unlockanim_1.1.0_iphoneos-arm64.deb
+Size: 14742
+MD5sum: 7996ed0d44f617ab2a8b0659b27afc44
+SHA1: 1c8e0689223a72862194d45a25c5f764ce33c0cd
+SHA256: f10e2cb45146e05799dc66b95d2f710a59cbf235c2420b1fb36da03f5d9ffb5c
+Icon: https://taras342.github.io/sileo/assets/icon.png
+SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.unlockanim.json
 
