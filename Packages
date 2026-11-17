@@ -1,34 +1,34 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Секретное рабочее пространство. В этой версии только выключатель в Настройках.
+Description: Двойное нажатие по пустому месту домашнего экрана открывает поле для рисунка.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.0.0
-Filename: debs/com.egor.komnata_1.0.0_iphoneos-arm.deb
-Size: 4506
-MD5sum: e8d5ab8f76c229cd824d4df181885f15
-SHA1: 421868e722971eb910413b17220808699cf6795d
-SHA256: 0e2aa555f75a7fd39029c0d378e7389e99caa131b25607fc0aaf9a7457b3aca4
+Version: 1.1.0
+Filename: debs/com.egor.komnata_1.1.0_iphoneos-arm.deb
+Size: 11262
+MD5sum: 9a1e3cc46fc7ca6a45efb1e1e31912e2
+SHA1: 3ed2d01b74deb80bdcfdb00f29b6b1efd04895f2
+SHA256: fb0f5a8cb349822e19b07a36eddcd800c595d53d111cae36da290d99184c9824
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
 Package: com.egor.komnata
 Name: Комната
-Description: Секретное рабочее пространство. В этой версии только выключатель в Настройках.
+Description: Двойное нажатие по пустому месту домашнего экрана открывает поле для рисунка.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm64
-Version: 1.0.0
-Filename: debs/com.egor.komnata_1.0.0_iphoneos-arm64.deb
-Size: 4586
-MD5sum: d69264dc8f339d91fff8c81dc8f488ae
-SHA1: a527f6631d2faaff7d753314b7eca918c11767e5
-SHA256: fe77fa4b38ec57df2063ca473cc7b3625a5f4ae05ed1f1defde194c1338477d8
+Version: 1.1.0
+Filename: debs/com.egor.komnata_1.1.0_iphoneos-arm64.deb
+Size: 11336
+MD5sum: 7fca0d417eaa2c768a3414b73f466a89
+SHA1: ac228050e64a20d077edc27f7c408cfe78812be6
+SHA256: 22c8fc54574dee2ff5b641a2591a9b36e4dddbec5bb28762a188435041a04bba
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
