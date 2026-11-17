@@ -1,3 +1,20 @@
+Package: com.egor.komnata
+Name: Комната
+Description: Секретное рабочее пространство. В этой версии только выключатель в Настройках.
+Depends: mobilesubstrate, preferenceloader
+Maintainer: Егор
+Author: Егор
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Filename: debs/com.egor.komnata_1.0.0_iphoneos-arm64.deb
+Size: 4586
+MD5sum: d69264dc8f339d91fff8c81dc8f488ae
+SHA1: a527f6631d2faaff7d753314b7eca918c11767e5
+SHA256: fe77fa4b38ec57df2063ca473cc7b3625a5f4ae05ed1f1defde194c1338477d8
+Icon: https://taras342.github.io/sileo/assets/komnata.png
+SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
+
 Package: com.egor.neofetch
 Name: Неофетч
 Description: Виджет экрана блокировки: своё место, текст, блоки и цвет.

@@ -5,16 +5,16 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Твики для экрана блокировки, iOS 16.7
+Description: Твики для iOS 16.7
 MD5Sum:
- 5a56de87c8b699fe88b17f4973c47de2 2936 Packages
- c992884800702d54dd6252291dae4d59 963 Packages.gz
- cc55bf10ca3255519a27353d72d14394 1044 Packages.bz2
+ 932696f2f996849042f5f3bb7c97a29c 4366 Packages
+ 456ac648455f8098a78c21a7c8b4dcec 1298 Packages.gz
+ 45333f7dffbdf7bf019d91b39eed0670 1393 Packages.bz2
 SHA1:
- f447e4d9029372cdd2c332bc7a937d508f795735 2936 Packages
- 75157fbf8e3fb8095a0ce901caf5cbc53e2b72e6 963 Packages.gz
- eb8b5559c28024fed5cfd58b24303192c868f8ae 1044 Packages.bz2
+ 5cb2c8bb1836b9f46792400db1c42dd87f08dad2 4366 Packages
+ eba3d30ce399f635cc5d75ac70f3440a9f38f576 1298 Packages.gz
+ f04c7ec30a11e16094a28af3fa1a58597ae695bc 1393 Packages.bz2
 SHA256:
- fe66492a98d4f54d85041f4bf2a79beeaacf31ed340053a62b3872b5f24bc0b8 2936 Packages
- 3e4141b27eb2c77b6d0ca68fc0697594d16b1fde659476cf8216b917befa2356 963 Packages.gz
- bd011510c469af6c1d854afdb87b56e7d67b420c75600dc14ac8b961126ea829 1044 Packages.bz2
+ d9498f7191891ecc9d326f5ec712e148baf305643b1a535c4bf247fca0f49803 4366 Packages
+ c36bb5ccea2cbb124fdc39aa51f7e917b5f17a43465004613df0c3d785f74ba0 1298 Packages.gz
+ 81471ad524b4354d0397c6d346cb54dcdb910197c6a9f8ff2d3ef968fa9873f3 1393 Packages.bz2

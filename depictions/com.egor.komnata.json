@@ -1,0 +1,23 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "1.0",
+  "tintColor": "#e31937",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Описание",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Комната",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Каркас секретного рабочего пространства. В **Настройки → Комната** есть выключатель. Он запоминает состояние и больше ничего не делает: домашний экран остаётся прежним.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

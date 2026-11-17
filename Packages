@@ -1,3 +1,37 @@
+Package: com.egor.komnata
+Name: Комната
+Description: Секретное рабочее пространство. В этой версии только выключатель в Настройках.
+Depends: mobilesubstrate, preferenceloader
+Maintainer: Егор
+Author: Егор
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0.0
+Filename: debs/com.egor.komnata_1.0.0_iphoneos-arm.deb
+Size: 4506
+MD5sum: e8d5ab8f76c229cd824d4df181885f15
+SHA1: 421868e722971eb910413b17220808699cf6795d
+SHA256: 0e2aa555f75a7fd39029c0d378e7389e99caa131b25607fc0aaf9a7457b3aca4
+Icon: https://taras342.github.io/sileo/assets/komnata.png
+SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
+
+Package: com.egor.komnata
+Name: Комната
+Description: Секретное рабочее пространство. В этой версии только выключатель в Настройках.
+Depends: mobilesubstrate, preferenceloader
+Maintainer: Егор
+Author: Егор
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Filename: debs/com.egor.komnata_1.0.0_iphoneos-arm64.deb
+Size: 4586
+MD5sum: d69264dc8f339d91fff8c81dc8f488ae
+SHA1: a527f6631d2faaff7d753314b7eca918c11767e5
+SHA256: fe77fa4b38ec57df2063ca473cc7b3625a5f4ae05ed1f1defde194c1338477d8
+Icon: https://taras342.github.io/sileo/assets/komnata.png
+SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
+
 Package: com.egor.neofetch
 Name: Неофетч
 Description: Виджет экрана блокировки: своё место, текст, блоки и цвет.
