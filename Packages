@@ -1,34 +1,34 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Секретные приложения не видны в переключателе и в поиске, пока режим выключен.
+Description: Сброс забытого знака. Знак и список приложений остаются после перезагрузки.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.6.0
-Filename: debs/com.egor.komnata_1.6.0_iphoneos-arm.deb
-Size: 25674
-MD5sum: 0d576b0cef092bee0c822e2a0c1bdaf3
-SHA1: d14bf5aa2efa82e2746f1ad50713f2f96d84ab49
-SHA256: 9867582c5757483b90236ccdb2016940853b0221cda8cdbe868aa78a93e197b6
+Version: 1.7.0
+Filename: debs/com.egor.komnata_1.7.0_iphoneos-arm.deb
+Size: 26562
+MD5sum: b56fd56ab9453977d9f6c801e2a46158
+SHA1: 91ff92df27592c40c5a9c0d1712ef719c3db417a
+SHA256: 32a5cdc4f77a5b0c00b0dbd796be54cd585c7ddc6cf6725e6105b955e0e5407e
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
 Package: com.egor.komnata
 Name: Комната
-Description: Секретные приложения не видны в переключателе и в поиске, пока режим выключен.
+Description: Сброс забытого знака. Знак и список приложений остаются после перезагрузки.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm64
-Version: 1.6.0
-Filename: debs/com.egor.komnata_1.6.0_iphoneos-arm64.deb
-Size: 25756
-MD5sum: 899c6173b8bbdf4f741cc5df32545072
-SHA1: 114188b63d27cd36b93318936d5b2030ddea365f
-SHA256: 5b0c2f5b11636bfc7b265f2bc5563c112a9123f39f1bb3d9734bb6be65603155
+Version: 1.7.0
+Filename: debs/com.egor.komnata_1.7.0_iphoneos-arm64.deb
+Size: 26600
+MD5sum: 6903182dc7f6a80ef7a6b98f75fd1c4f
+SHA1: 0524bafee57394c8d4836c3120d7213fccb3c868
+SHA256: c05aef1188c0d6e6d8cb4135b2ba6eeb31b3cd725aa5b452f635210dee4ee5ad
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 

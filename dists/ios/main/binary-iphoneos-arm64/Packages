@@ -1,17 +1,17 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Секретные приложения не видны в переключателе и в поиске, пока режим выключен.
+Description: Сброс забытого знака. Знак и список приложений остаются после перезагрузки.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm64
-Version: 1.6.0
-Filename: debs/com.egor.komnata_1.6.0_iphoneos-arm64.deb
-Size: 25756
-MD5sum: 899c6173b8bbdf4f741cc5df32545072
-SHA1: 114188b63d27cd36b93318936d5b2030ddea365f
-SHA256: 5b0c2f5b11636bfc7b265f2bc5563c112a9123f39f1bb3d9734bb6be65603155
+Version: 1.7.0
+Filename: debs/com.egor.komnata_1.7.0_iphoneos-arm64.deb
+Size: 26600
+MD5sum: 6903182dc7f6a80ef7a6b98f75fd1c4f
+SHA1: 0524bafee57394c8d4836c3120d7213fccb3c868
+SHA256: c05aef1188c0d6e6d8cb4135b2ba6eeb31b3cd725aa5b452f635210dee4ee5ad
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
