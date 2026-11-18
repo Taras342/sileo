@@ -1,17 +1,17 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Свой знак: запись в Настройках, на столе верный рисунок отвечает вибрацией.
+Description: Верный знак включает секретный режим. Красная точка показывает, что он включён.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.2.0
-Filename: debs/com.egor.komnata_1.2.0_iphoneos-arm.deb
-Size: 16056
-MD5sum: d3aeefcd57fadce17d7b5b72949949ff
-SHA1: 1ee969dce218f539b056c0123b494f1df90d949b
-SHA256: 1d0a25aeebdb517850ed6ec8866bd15c8c2ed556f8301a2731d2c241b91a177e
+Version: 1.3.0
+Filename: debs/com.egor.komnata_1.3.0_iphoneos-arm.deb
+Size: 17128
+MD5sum: 23bb3558d28a0e1115f7d65fd6e2c299
+SHA1: 1bd91305cac978f1c6a709b397f01c041bca3205
+SHA256: 69945a5948578f7dbe2049e2602d7248c79c54dcb44a763f3a942331f8a6bfff
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
