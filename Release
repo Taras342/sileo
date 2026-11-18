@@ -7,14 +7,14 @@ Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Твики для iOS 16.7
 MD5Sum:
- 6fe7adc3e8502f55ebd7b0014ef8e3b3 4356 Packages
- 02aa73e0bbc84ade9c21e64dff91d90d 1295 Packages.gz
- 0a9deeeb33dcee40ec641fd93d8c12b5 1390 Packages.bz2
+ 3fe22f4043b47a408fe109e06411341e 4272 Packages
+ 267f5f9377e01d4039421114d4cbcf32 1281 Packages.gz
+ fd09d4c677a11760ad0be4f11dc46ad6 1377 Packages.bz2
 SHA1:
- d30fa8b1cd58223bbb437e810d47476fdaa0afa5 4356 Packages
- b99c26504cd379b61331d5eb9b99ce3daaf1da80 1295 Packages.gz
- bae33ae1858b067970e7b7d81a87eeaff3b8d43e 1390 Packages.bz2
+ 35c24c68dd834be9ebe5121842a4d0b3eec993b3 4272 Packages
+ 6e82284ceef59466ec5db9db4c868692a1e20609 1281 Packages.gz
+ 6f785e25cc0920982344cd4158d95940000050f0 1377 Packages.bz2
 SHA256:
- 9df8f8a613abc1c4c7a37f4a5668f2539336f3a62b1fbe6e8059ab38242b8c51 4356 Packages
- 8f5ce12d8cf96134163d4387a435b849493aeb195416eb8893edec1d72eb80d1 1295 Packages.gz
- c28e1ad74032d9c5d0f753323d66c8cbf2486cecb3f1b3f1a6ce76113d0ec6bd 1390 Packages.bz2
+ 5b154e52cd0776f0ce9d97a10073c0ebeda6bb28af0911b4fde902a97e21e066 4272 Packages
+ ddcd25715dc2bb206b18bb005544ede8a62a63dc6debe87efcab36246a346dd7 1281 Packages.gz
+ a129ca0cce6cdef42a0329da2b9a9d60330e73144ce965510567577bd7a7fa1a 1377 Packages.bz2

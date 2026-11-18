@@ -1,17 +1,17 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Сброс забытого знака. Знак и список приложений остаются после перезагрузки.
+Description: Все приложения изначально в режиме «Только обычный».
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.7.0
-Filename: debs/com.egor.komnata_1.7.0_iphoneos-arm.deb
-Size: 26562
-MD5sum: b56fd56ab9453977d9f6c801e2a46158
-SHA1: 91ff92df27592c40c5a9c0d1712ef719c3db417a
-SHA256: 32a5cdc4f77a5b0c00b0dbd796be54cd585c7ddc6cf6725e6105b955e0e5407e
+Version: 1.7.1
+Filename: debs/com.egor.komnata_1.7.1_iphoneos-arm.deb
+Size: 26528
+MD5sum: 52fb7253c9cc40ff95f34b37f8eedba4
+SHA1: 602a0b5ef1857dd86a54e80b1203d42348b2acc1
+SHA256: 0874171980543e6599e16c19cebe3b74ebb463b460d0f10abe303fb0119c04b8
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
