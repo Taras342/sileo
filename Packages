@@ -1,34 +1,34 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Скрытие иконок не переписывает их положение, анимации Cylinder сохраняются.
+Description: Убрана проверка, из-за которой SpringBoard не запускался.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.7.2
-Filename: debs/com.egor.komnata_1.7.2_iphoneos-arm.deb
-Size: 25594
-MD5sum: 09699bb0aec33adddeea3fafef51c089
-SHA1: 13fc740191538e35e29eb82ebd9b6aebc818042e
-SHA256: 9a2f72655b5664119ab6324a11f76977a1231fc9b98c264c169f4828bbb8c8d9
+Version: 1.7.3
+Filename: debs/com.egor.komnata_1.7.3_iphoneos-arm.deb
+Size: 25924
+MD5sum: 72de09fa98e445931e54f5d3ced1dd3f
+SHA1: af3b6a9034f8c4b76f28d4b75f7bdd6ade18a472
+SHA256: 3cee713da9d2a6a7c139ecf7f34b0b6c7cff9aed6c9533b4d33fa168f514f992
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
 Package: com.egor.komnata
 Name: Комната
-Description: Скрытие иконок не переписывает их положение, анимации Cylinder сохраняются.
+Description: Убрана проверка, из-за которой SpringBoard не запускался.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm64
-Version: 1.7.2
-Filename: debs/com.egor.komnata_1.7.2_iphoneos-arm64.deb
-Size: 25702
-MD5sum: 99e55c2cc266be6c91f1da7f3909713b
-SHA1: 3463f0f87e07ee2147fa0bc8aee133b535616869
-SHA256: 3f8241115007c665ec2597e1afce090f59a96571d94691fc21f0007fe4454226
+Version: 1.7.3
+Filename: debs/com.egor.komnata_1.7.3_iphoneos-arm64.deb
+Size: 26042
+MD5sum: eae65e203fab05c132f2414afc5b78db
+SHA1: fd8c1ab219d4c1e1b642b13ce8c7d067b74dc1fb
+SHA256: 0d62d2334789d371d8226acbda9d59b0f0f92647443a602d3eb17f1f9ea344e5
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
