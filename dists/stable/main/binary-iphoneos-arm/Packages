@@ -1,17 +1,17 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Список приложений: оба стола, только обычный или только секретный. Иконки пока не прячутся.
+Description: Обычный стол прячет секретные приложения, секретный прячет обычные. Док и папки тоже.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.4.0
-Filename: debs/com.egor.komnata_1.4.0_iphoneos-arm.deb
-Size: 22106
-MD5sum: c69e359f8b3c529c20080a93e6c6efb0
-SHA1: fe6203d2efa73c633af963f7c381816a99288969
-SHA256: cab2a15e4ad38a36923913170359d32b108cd4bb0227cb22f100b13dc4692320
+Version: 1.5.0
+Filename: debs/com.egor.komnata_1.5.0_iphoneos-arm.deb
+Size: 24092
+MD5sum: 49fdd27b5aa184a95a2d6fc36043c519
+SHA1: bfeeb2c7a852f9a539ef37b70ab57487dbfcf593
+SHA256: 715ba18a8e1de3b0553db26f71224183737bc0027654a14707740a05cd07565e
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
