@@ -1,17 +1,17 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Двойное нажатие по пустому месту домашнего экрана открывает поле для рисунка.
+Description: Свой знак: запись в Настройках, на столе верный рисунок отвечает вибрацией.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.1.0
-Filename: debs/com.egor.komnata_1.1.0_iphoneos-arm.deb
-Size: 11262
-MD5sum: 9a1e3cc46fc7ca6a45efb1e1e31912e2
-SHA1: 3ed2d01b74deb80bdcfdb00f29b6b1efd04895f2
-SHA256: fb0f5a8cb349822e19b07a36eddcd800c595d53d111cae36da290d99184c9824
+Version: 1.2.0
+Filename: debs/com.egor.komnata_1.2.0_iphoneos-arm.deb
+Size: 16056
+MD5sum: d3aeefcd57fadce17d7b5b72949949ff
+SHA1: 1ee969dce218f539b056c0123b494f1df90d949b
+SHA256: 1d0a25aeebdb517850ed6ec8866bd15c8c2ed556f8301a2731d2c241b91a177e
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
