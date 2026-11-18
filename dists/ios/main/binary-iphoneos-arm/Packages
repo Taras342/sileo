@@ -1,17 +1,17 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Верный знак включает секретный режим. Красная точка показывает, что он включён.
+Description: Список приложений: оба стола, только обычный или только секретный. Иконки пока не прячутся.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.3.0
-Filename: debs/com.egor.komnata_1.3.0_iphoneos-arm.deb
-Size: 17128
-MD5sum: 23bb3558d28a0e1115f7d65fd6e2c299
-SHA1: 1bd91305cac978f1c6a709b397f01c041bca3205
-SHA256: 69945a5948578f7dbe2049e2602d7248c79c54dcb44a763f3a942331f8a6bfff
+Version: 1.4.0
+Filename: debs/com.egor.komnata_1.4.0_iphoneos-arm.deb
+Size: 22106
+MD5sum: c69e359f8b3c529c20080a93e6c6efb0
+SHA1: fe6203d2efa73c633af963f7c381816a99288969
+SHA256: cab2a15e4ad38a36923913170359d32b108cd4bb0227cb22f100b13dc4692320
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
