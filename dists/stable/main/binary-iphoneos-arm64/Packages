@@ -1,17 +1,17 @@
 Package: com.egor.komnata
 Name: Комната
-Description: Обычный стол прячет секретные приложения, секретный прячет обычные. Док и папки тоже.
+Description: Секретные приложения не видны в переключателе и в поиске, пока режим выключен.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: Егор
 Author: Егор
 Section: Tweaks
 Architecture: iphoneos-arm64
-Version: 1.5.0
-Filename: debs/com.egor.komnata_1.5.0_iphoneos-arm64.deb
-Size: 24136
-MD5sum: ffb7a0c7a3e03ee4b4c58cdd97ef2af8
-SHA1: 730969e671481d375b0e447a910d6da72a3b42a1
-SHA256: 505ea71908bb36fa025d6a153a1247e2c4019d1220207765ea14f73fefdcd407
+Version: 1.6.0
+Filename: debs/com.egor.komnata_1.6.0_iphoneos-arm64.deb
+Size: 25756
+MD5sum: 899c6173b8bbdf4f741cc5df32545072
+SHA1: 114188b63d27cd36b93318936d5b2030ddea365f
+SHA256: 5b0c2f5b11636bfc7b265f2bc5563c112a9123f39f1bb3d9734bb6be65603155
 Icon: https://taras342.github.io/sileo/assets/komnata.png
 SileoDepiction: https://taras342.github.io/sileo/depictions/com.egor.komnata.json
 
